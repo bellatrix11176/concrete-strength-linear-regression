@@ -39,3 +39,7 @@ After running the script, the following files are generated in `output/`:
 - `linear_regression_model_summary.txt`
 - `final_model_pvalues.csv`
 - `score_rows_removed_out_of_range.csv` (only if any scoring rows are removed)
+
+**Case Studies:** https://pixelkraze.com/case-studies?utm_source=github&utm_medium=readme&utm_campaign=portfolio&utm_content=case_studies_link
+**Colab Notebook:** https://YOUR-COLAB-LINK?utm_source=github&utm_medium=readme&utm_campaign=novawireless&utm_content=colab_button
+
